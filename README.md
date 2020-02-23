@@ -105,12 +105,52 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109769
 Li J, Shen S, Chen J, Liu W et al. Accurate annotation of accessible chromatin in mouse and human primordial germ cells. Cell Res 2018 Nov;28(11):1077-1089. PMID: 30305709
 
 
+#### 7. GSE60204
+| cell type   |data type|
+| ------------- | ------------- |
+| ES | H3K27ac  |
+| EpiLC | H3K27ac  |
+| PGCLC-d2 | H3K27ac  |
+| PGCLC-d6 | H3K27ac  |
+| ES | H3K4me3  |
+| EpiLC | H3K4me3    |
+| PGCLC-d2 | H3K4me3   |
+| PGCLC-d6 |H3K4me3   |
+| ES | H3K27me3    |
+| EpiLC | H3K27me3    |
+| PGCLC-d2 | H3K27me3   |
+| PGCLC-d6 | H3K27me3    |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60204
+#### reference	
+Kurimoto K, Yabuta Y, Hayashi K, Ohta H et al. Quantitative Dynamics of Chromatin Remodeling during Germ Cell Specification from Mouse Embryonic Stem Cells. Cell Stem Cell 2015 May 7;16(5):517-32. PMID: 25800778
+
+
+#### 8. GSE92407
+| cell type   |data type|
+| ------------- | ------------- |
+| ES_2i| H3K27ac  |
+| ES_2i| Esrrb  |
+| ES_2i| Klf4  |
+| ES_2i| Nr5a2 |
+| ES_2i| CTCF  |
+| ES_2i| Smc1  |
+| ES_2i| Yy1 |
+| EpiLC| CTCF  |
+| EpiLC| Smc1  |
+| EpiLC| Yy1 |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92407
+ 	
+#### reference	
+Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a hardwired 3D chromatin landscape in two naive states of pluripotency. Nat Cell Biol 2019 May;21(5):568-578. PMID: 31036938
+
+
+
 
 
 
 ### ATAC-seq and DNase-seq
-
-
 #### 1. GSE84236
 
 | cell type   |data type|
@@ -123,7 +163,6 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84236
 Smith ZD, Shi J, Gu H, Donaghey J et al. Epigenetic restriction of extraembryonic lineages mirrors the somatic transition to cancer. Nature 2017 Sep 28;549(7673):543-547. PMID: 28959968
 
 #### 2. GSE57409
-
 | cell type   |data type|
 | ------------- | ------------- |
 | mEpiSC   | DNase-seq  |
@@ -133,14 +172,11 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57409
 Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reveals activation of "seed" enhancers during transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):854-63. PMID: 24905169
 
 #### 3. EM003417
-
 | cell type   |data type|
 | ------------- | ------------- |
 | mESC | DNase-seq  |
 
-
-#### 3. GSE109767
-
+#### 4. GSE109767
 | cell type   |data type|
 | ------------- | ------------- |
 | EpiLC | DNase-seq  |
@@ -154,4 +190,18 @@ Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reve
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109767
 #### reference
 Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reveals activation of "seed" enhancers during transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):854-63. PMID: 24905169
+
+
+#### 4. GSE92411
+
+| cell type   |data type|
+| ------------- | ------------- |
+| ES_2i| ATAC-seq  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92411
+ 	
+#### reference	
+Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a hardwired 3D chromatin landscape in two naive states of pluripotency. Nat Cell Biol 2019 May;21(5):568-578. PMID: 31036938
+
+
 

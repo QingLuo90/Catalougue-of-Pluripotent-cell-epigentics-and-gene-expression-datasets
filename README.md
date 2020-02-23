@@ -94,15 +94,17 @@ Di Giammartino DC, Kloetgen A, Polyzos A, et al. KLF4 is involved in the organiz
 
 
 
-#### 6. 
+#### 6. GSE109769
 
 | cell type   |data type|
 | ------------- | ------------- |
-| mESC   | Klf4  |
-| mESC| H3K27ac  |
+| E14.5_PGC | H3K27ac  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109769
+#### reference	
+Li J, Shen S, Chen J, Liu W et al. Accurate annotation of accessible chromatin in mouse and human primordial germ cells. Cell Res 2018 Nov;28(11):1077-1089. PMID: 30305709
 
 
-#### reference
 
 
 
@@ -137,4 +139,19 @@ Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reve
 | mESC | DNase-seq  |
 
 
+#### 3. GSE109767
+
+| cell type   |data type|
+| ------------- | ------------- |
+| EpiLC | DNase-seq  |
+| E9.5_PGC | DNase-seq  |
+| E10.5_PGC | DNase-seq  |
+| E12.5_PGC | DNase-seq  |
+| E14.5_PGC | DNase-seq  |
+| E16.5_PGC | DNase-seq  |
+| ES_PGC | DNase-seq  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109767
+#### reference
+Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reveals activation of "seed" enhancers during transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):854-63. PMID: 24905169
 

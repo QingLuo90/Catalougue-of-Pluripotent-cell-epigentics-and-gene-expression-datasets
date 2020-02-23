@@ -2,9 +2,8 @@
 ## Mouse data
 ### Chip-seq
 
-#### 1
-cell type: mEpiSC 
-source: GSE57409
+#### 1. GSE57409
+
 | cell type   |data type|
 | ------------- | ------------- |
 | mEpiSC   | H3K27ac   |

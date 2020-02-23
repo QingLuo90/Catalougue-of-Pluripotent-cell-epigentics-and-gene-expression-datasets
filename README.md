@@ -38,3 +38,31 @@ Wamstad JA, Alexander JM, Truty RM, Shrikumar A et al. Dynamic and coordinated e
 
 
 
+
+#### 3. GSE56098
+
+| cell type   |data type|
+| ------------- | ------------- |
+| mESC 2i  | H3K27ac   |
+| mESC 2i| H3K27me3  |
+| mESC 2i | H3K4me1 |
+| mESC 2i | H3K4me3  |
+| mESC 2i | Oct-4 |
+| mESC 2i | Otx2  |
+| mESC 2i | P300 |
+| EpiLC  | H3K27ac   |
+| EpiLC | H3K27me3  |
+| EpiLC  | H3K4me1 |
+| EpiLC | H3K4me3  |
+| EpiLC | Oct-4 |
+| EpiLC | Otx2  |
+| EpiLC | P300 |
+
+cell line: R1; 
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56098
+
+#### reference
+Buecker C, Srinivasan R, Wu Z, Calo E et al. Reorganization of enhancer patterns in transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):838-53. PMID: 24905168
+
+

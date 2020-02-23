@@ -147,7 +147,19 @@ Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a h
 
 
 
+#### 9.GSE74636
+| cell type   |data type|
+| ------------- | ------------- |
+| EPiSC| Otc-4  |
+| EPiSC| Otx2  |
+| EPiSC| Zic2  |
+| EPiSC| Sox2 |
+| EPiSC| Pou3f1  |
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74636
+
+#### reference	
+Matsuda K, Mikami T, Oki S, Iida H et al. ChIP-seq analysis of genomic binding regions of five major transcription factors highlights a central role for ZIC2 in the mouse epiblast stem cell gene regulatory network. Development 2017 Jun 1;144(11):1948-1958. PMID: 28455373
 
 
 ### ATAC-seq and DNase-seq
@@ -204,4 +216,5 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92411
 Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a hardwired 3D chromatin landscape in two naive states of pluripotency. Nat Cell Biol 2019 May;21(5):568-578. PMID: 31036938
 
 
+### TO BE CONTINUED ...
 

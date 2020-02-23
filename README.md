@@ -161,6 +161,40 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74636
 #### reference	
 Matsuda K, Mikami T, Oki S, Iida H et al. ChIP-seq analysis of genomic binding regions of five major transcription factors highlights a central role for ZIC2 in the mouse epiblast stem cell gene regulatory network. Development 2017 Jun 1;144(11):1948-1958. PMID: 28455373
 
+#### 10.GSE71932
+| cell type   |data type|
+| ------------- | ------------- |
+| ES| Nanog  |
+| EpiLC| Nanog  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71932
+#### reference	
+Murakami K, Günesdogan U, Zylicz JJ, Tang WWC et al. NANOG alone induces germ cells in primed epiblast in vitro by activation of enhancers. Nature 2016 Jan 21;529(7586):403-407. PMID: 26751055
+
+#### 11.E-MTAB-1600;E-MTAB-1599
+E-MTAB-1600 for the AP2γ ChIP-seq data
+E-MTAB-1599 for the BLIMP1 ChIP-seq data,
+| cell type   |data type|
+| ------------- | ------------- |
+|  p19 | AP2γ   |
+| p19|BLIMP1  |
+
+https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-1600/
+https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-1599/
+#### reference	
+Erna Magnúsdóttir, Sabine Dietman, Kazuhiro Murakami, et al. A tripartite transcription factor network regulates primordial germ cell specification in mice. Nat. Cell Biol. 2013), PMID:23851488
+
+
+#### 12.GSE25409
+
+| cell type   |data type|
+| ------------- | ------------- |
+|  ES| Prdm14   |
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25409
+
+#### reference	
+Ma Z, Swigut T, Valouev A, Rada-Iglesias A et al. Sequence-specific regulator Prdm14 safeguards mouse ESCs from entering extraembryonic endoderm fates. Nat Struct Mol Biol 2011 Feb;18(2):120-7. PMID: 21183938
+
 
 ### ATAC-seq and DNase-seq
 #### 1. GSE84236

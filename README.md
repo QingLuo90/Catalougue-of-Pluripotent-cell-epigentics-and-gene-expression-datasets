@@ -81,9 +81,60 @@ Kagey MH, Newman JJ, Bilodeau S, Zhan Y et al. Mediator and cohesin connect gene
 
 
 
+#### 5. GSE113431
+
+| cell type   |data type|
+| ------------- | ------------- |
+| mESC   | Klf4  |
+| mESC| H3K27ac  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113431
+#### reference
+Di Giammartino DC, Kloetgen A, Polyzos A, et al. KLF4 is involved in the organization and regulation of pluripotency-associated three-dimensional enhancer networks. Nat Cell Biol. 2019 Oct;21(10):1179-1190. PMID: 31548608 
 
 
 
+#### 6. 
+
+| cell type   |data type|
+| ------------- | ------------- |
+| mESC   | Klf4  |
+| mESC| H3K27ac  |
+
+
+#### reference
+
+
+
+### ATAC-seq and DNase-seq
+
+
+#### 1. GSE84236
+
+| cell type   |data type|
+| ------------- | ------------- |
+| Blasotcyst   | ATAC  |
+| Epiblast| ATAC  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84236
+#### reference
+Smith ZD, Shi J, Gu H, Donaghey J et al. Epigenetic restriction of extraembryonic lineages mirrors the somatic transition to cancer. Nature 2017 Sep 28;549(7673):543-547. PMID: 28959968
+
+#### 2. GSE57409
+
+| cell type   |data type|
+| ------------- | ------------- |
+| mEpiSC   | DNase-seq  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57409
+#### reference
+Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reveals activation of "seed" enhancers during transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):854-63. PMID: 24905169
+
+#### 3. EM003417
+
+| cell type   |data type|
+| ------------- | ------------- |
+| mESC | DNase-seq  |
 
 
 

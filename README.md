@@ -8,9 +8,7 @@
 | mEpiSC   | H3K27ac   |
 | mEpiSC  | H3K27me3  |
 | mEpiSC   | H3K4me1 |
-| mEpiSC  | H3K4me3  |
-
-cell line: EpiSC9
+| mEpiSC  | H3K4me3  |        cell line: EpiSC9
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE57407
 

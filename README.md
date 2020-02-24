@@ -197,7 +197,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25409
 Ma Z, Swigut T, Valouev A, Rada-Iglesias A et al. Sequence-specific regulator Prdm14 safeguards mouse ESCs from entering extraembryonic endoderm fates. Nat Struct Mol Biol 2011 Feb;18(2):120-7. PMID: 21183938
 
 
-### ATAC-seq and DNase-seq
+### Chromatin accessibility
 #### 1. GSE84236
 
 | cell type   |data type|
@@ -264,7 +264,20 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79552
 Guo H, Hu B, Yan L, Yong J et al. DNA methylation and chromatin accessibility profiling of mouse and human fetal germ cells. Cell Res 2017 Feb;27(2):165-183. PMID: 27824029
 
 
+### Gene expression
 
 
+## Human data
+### Chip-seq
+
+### Chromatin accessibility
+#### 1. GSE65360
+| cell type   |data type|
+| ------------- | ------------- |
+| h1ES (single cell)| ATAC-seq |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65360
+#### reference	
+Buenrostro JD, Wu B, Litzenburger UM, Ruff D et al. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature 2015 Jul 23;523(7561):486-90. PMID: 26083756
 ### TO BE CONTINUED ...
 

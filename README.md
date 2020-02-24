@@ -190,6 +190,7 @@ Erna Magnúsdóttir, Sabine Dietman, Kazuhiro Murakami, et al. A tripartite tran
 | cell type   |data type|
 | ------------- | ------------- |
 |  ES| Prdm14   |
+
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25409
 
 #### reference	
@@ -261,5 +262,9 @@ Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a h
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79552
 #### reference	
 Guo H, Hu B, Yan L, Yong J et al. DNA methylation and chromatin accessibility profiling of mouse and human fetal germ cells. Cell Res 2017 Feb;27(2):165-183. PMID: 27824029
+
+
+
+
 ### TO BE CONTINUED ...
 

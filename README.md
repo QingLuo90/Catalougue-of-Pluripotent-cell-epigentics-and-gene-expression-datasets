@@ -1,6 +1,5 @@
 
-## Mouse data
-### Chip-seq
+## Mouse Chip-seq
 
 #### 1. GSE57409
 
@@ -197,7 +196,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25409
 Ma Z, Swigut T, Valouev A, Rada-Iglesias A et al. Sequence-specific regulator Prdm14 safeguards mouse ESCs from entering extraembryonic endoderm fates. Nat Struct Mol Biol 2011 Feb;18(2):120-7. PMID: 21183938
 
 
-### Chromatin accessibility
+## Mouse Chromatin Accessibility
 #### 1. GSE84236
 
 | cell type   |data type|
@@ -239,7 +238,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109767
 Factor DC, Corradin O, Zentner GE, Saiakhova A et al. Epigenomic comparison reveals activation of "seed" enhancers during transition from naive to primed pluripotency. Cell Stem Cell 2014 Jun 5;14(6):854-63. PMID: 24905169
 
 
-#### 4. GSE92411
+#### 5. GSE92411
 
 | cell type   |data type|
 | ------------- | ------------- |
@@ -251,7 +250,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92411
 Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a hardwired 3D chromatin landscape in two naive states of pluripotency. Nat Cell Biol 2019 May;21(5):568-578. PMID: 31036938
 
 
-#### 5. GSE79552
+#### 6. GSE79552
 | cell type   |data type|
 | ------------- | ------------- |
 | E6.5_Epiblast| NOMe-seq |
@@ -264,13 +263,13 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79552
 Guo H, Hu B, Yan L, Yong J et al. DNA methylation and chromatin accessibility profiling of mouse and human fetal germ cells. Cell Res 2017 Feb;27(2):165-183. PMID: 27824029
 
 
-### Gene expression
+## Mouse Gene Expression
 
 
-## Human data
-### Chip-seq
 
-### Chromatin accessibility
+## Human Chip-seq
+
+## Human Chromatin Accessibility
 #### 1. GSE65360
 | cell type   |data type|
 | ------------- | ------------- |
@@ -279,5 +278,8 @@ Guo H, Hu B, Yan L, Yong J et al. DNA methylation and chromatin accessibility pr
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE65360
 #### reference	
 Buenrostro JD, Wu B, Litzenburger UM, Ruff D et al. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature 2015 Jul 23;523(7561):486-90. PMID: 26083756
+
+## Human Gene Expression
+
 ### TO BE CONTINUED ...
 

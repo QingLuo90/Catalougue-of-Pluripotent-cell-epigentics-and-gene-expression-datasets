@@ -250,5 +250,16 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92411
 Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a hardwired 3D chromatin landscape in two naive states of pluripotency. Nat Cell Biol 2019 May;21(5):568-578. PMID: 31036938
 
 
+#### 5. GSE79552
+| cell type   |data type|
+| ------------- | ------------- |
+| E6.5_Epiblast| NOMe-seq |
+| E11.5_Epiblast| NOMe-seq  |
+| E13.5_Epiblast| NOMe-seq  |
+| E16.5_Epiblast| NOMe-seq  |
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79552
+#### reference	
+Guo H, Hu B, Yan L, Yong J et al. DNA methylation and chromatin accessibility profiling of mouse and human fetal germ cells. Cell Res 2017 Feb;27(2):165-183. PMID: 27824029
 ### TO BE CONTINUED ...
 

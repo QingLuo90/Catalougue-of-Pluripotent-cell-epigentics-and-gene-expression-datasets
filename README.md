@@ -146,7 +146,7 @@ Atlasi Y, Megchelenbrink W, Peng T, Habibi E et al. Epigenetic modulation of a h
 
 
 
-#### 9.GSE74636
+#### 9. GSE74636
 | cell type   |data type|
 | ------------- | ------------- |
 | EPiSC| Otc-4  |
@@ -160,7 +160,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74636
 #### reference	
 Matsuda K, Mikami T, Oki S, Iida H et al. ChIP-seq analysis of genomic binding regions of five major transcription factors highlights a central role for ZIC2 in the mouse epiblast stem cell gene regulatory network. Development 2017 Jun 1;144(11):1948-1958. PMID: 28455373
 
-#### 10.GSE71932
+#### 10. GSE71932
 | cell type   |data type|
 | ------------- | ------------- |
 | ES| Nanog  |
@@ -170,7 +170,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE71932
 #### reference	
 Murakami K, Günesdogan U, Zylicz JJ, Tang WWC et al. NANOG alone induces germ cells in primed epiblast in vitro by activation of enhancers. Nature 2016 Jan 21;529(7586):403-407. PMID: 26751055
 
-#### 11.E-MTAB-1600;E-MTAB-1599
+#### 11. E-MTAB-1600;E-MTAB-1599
 E-MTAB-1600 for the AP2γ ChIP-seq data
 E-MTAB-1599 for the BLIMP1 ChIP-seq data,
 | cell type   |data type|
@@ -184,7 +184,7 @@ https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-1599/
 Erna Magnúsdóttir, Sabine Dietman, Kazuhiro Murakami, et al. A tripartite transcription factor network regulates primordial germ cell specification in mice. Nat. Cell Biol. 2013), PMID:23851488
 
 
-#### 12.GSE25409
+#### 12. GSE25409
 
 | cell type   |data type|
 | ------------- | ------------- |

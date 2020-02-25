@@ -1,3 +1,6 @@
+# Catalougue of pluripotent cell epigentics and gene expression datasets
+
+## This repository is to keep track of relevent datasets for our long-term research.
 
 ## Mouse Chip-seq
 
